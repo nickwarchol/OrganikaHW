@@ -1,0 +1,14 @@
+.footer-cr{
+    display: block;
+    top: 60rem;
+    
+    
+
+}
+.footer-name{
+    display: block;
+    bottom: 0;
+    font-weight: bold;
+    color: #333;
+    left: 870px;
+}
